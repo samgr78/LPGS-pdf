@@ -13,4 +13,4 @@ analyzer:
     - linux/**
 
 plugins:
-  riverpod_lint: ^3.1.4
+  riverpod_lint: ^3.1.9
